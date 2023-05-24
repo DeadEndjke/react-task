@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    color: white;
+    .links{
+        width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .item{
+            list-style: none;
+        }
+    }
+}
